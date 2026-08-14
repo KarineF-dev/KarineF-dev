@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <sub>💛 LinkedIn (Pikachu) &nbsp;•&nbsp; 💙 Email (Lapras) &nbsp;•&nbsp; 💜 Instagram (Espeon)</sub>
+  <sub>💛 LinkedIn  &nbsp;•&nbsp; 💙 Email  &nbsp;•&nbsp; 💜 Instagram </sub>
 </p>
 
 ![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,10&height=3&section=header)
