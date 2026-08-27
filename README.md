@@ -63,15 +63,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KarineF-dev&show_icons=true&hide_border=true&title_color=F5C518&icon_color=F5C518&text_color=465C71&bg_color=2C3E50" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarineF-dev&hide_border=true&background=2C3E50&stroke=F5C518&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=465C71&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=465C71" alt="Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=KarineF-dev&hide_border=true&background=2C3E50&stroke=F5C518&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=465C71&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=465C71" alt="Streak" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarineF-dev&layout=compact&hide_border=true&title_color=F5C518&text_color=465C71&bg_color=2C3E50" alt="Linguagens mais usadas" width="60%" />
 </p>
-
 ![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,10&height=3&section=header)
-
 ### 🎒 Minha PokéBag (projetos em destaque)
 
 - 🐾 **[MAPPET](https://github.com/KarineF-dev/mappet)** — Sistema web para localização e reencontro de animais perdidos
