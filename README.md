@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/131.gif" width="100" alt="Lapras animado" />
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/196.gif" width="100" alt="Espeon animado" />
 </p>
-
+                             
 <p align="center">
   <sub>⚡ Pikachu &nbsp;•&nbsp; 🌊 Lapras &nbsp;•&nbsp; 🔮 Espeon</sub>
 </p>
@@ -62,15 +62,18 @@
 ### 📊 Estatísticas de treinador
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarineF-dev&show_icons=true&hide_border=true&title_color=F5C518&icon_color=F5C518&text_color=465C71&bg_color=2C3E50" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=KarineF-dev&hide_border=true&background=2C3E50&stroke=F5C518&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=465C71&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=465C71" alt="Streak" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=KarineF-dev&show_icons=true&hide_border=true&theme=tokyonight" alt="Estatísticas do GitHub" width="45%" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=KarineF-dev&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" alt="Streak" width="48%" />
+
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarineF-dev&layout=compact&hide_border=true&title_color=F5C518&text_color=465C71&bg_color=2C3E50" alt="Linguagens mais usadas" width="60%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=KarineF-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas" width="60%" />
 </p>
-![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,10&height=3&section=header
 
-## 🎒 Minha PokéBag (projetos em destaque)
+![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,10&height=3&section=header)
+ 
+
+### 🎒 Minha PokéBag (projetos em destaque)
 
 - 🐾 **[MAPPET](https://github.com/KarineF-dev/mappet)** — Sistema web para localização e reencontro de animais perdidos
 
