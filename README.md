@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="100" alt="Pikachu animado" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/65.gif" width="120" alt="Alakazam status" />
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/131.gif" width="100" alt="Lapras animado" />
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/196.gif" width="100" alt="Espeon animado" />
 </p>
@@ -31,6 +31,24 @@
 </p>
 
 ![divisor](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,10&height=3&section=header)
+
+### ⚔️ Vamos batalhar? Faça sua escolha!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/196.gif" width="120" alt="Espeon status" />
+</p>
+
+<p align="center">
+  
+  <b>KARINE, THE TRAINER</b> &nbsp;&nbsp; Lv. 31
+</p>
+
+```
+HP    ████████████████░░░░  80%   Disponibilidade p/ novos projetos
+ATK   ██████████████░░░░░░  70%   Java · SQL · Lógica de programação
+DEF   ████████████░░░░░░░░  60%   Trabalho em equipe e comunicação
+SPD   ██████████████████░░  90%   Vontade de aprender coisas novas
+```
 
 ### 🧭 Sobre mim
 
