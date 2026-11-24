@@ -1,4 +1,4 @@
-<h1 align="center">Olá, treinador(a)! Eu sou a Karine, mas pode me chamar de K! </h1>
+<h1 align="center">Olá! Eu sou a Karine, mas pode me chamar de K! </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5C518&center=true&vCenter=true&width=550&lines=Estudante+de+ADS;Escolhendo+meu+pr%C3%B3ximo+desafio...;Always+evolving+like+my+favorite+Pok%C3%A9mon" alt="Typing SVG" />
